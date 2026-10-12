@@ -1,0 +1,6 @@
+{
+  "name": "AKS University Satna Portal",
+  "description": "Comprehensive, responsive clone of AKS University (Satna, MP) featuring academic program explorer, fee & scholarship calculator, online admission portal, and student ERP simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
